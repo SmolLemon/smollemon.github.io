@@ -121,7 +121,7 @@ enableRobotsTXT = true
   [[menu.social]]
   name = "Smol Book"
   pre = "smolbook"
-  url = "https://smollemon.github.io/"
+  url = "https://smollemon.github.io/SmolBook"
   weight = 40
 
   [[menu.social]]
