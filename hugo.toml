@@ -1,6 +1,6 @@
 # Site Configuration
 
-baseURL = 'https://www.smollemon.page/'
+baseURL = 'https://smollemon.github.io/'
 languageCode = 'vi-VN'
 title = 'Smol Lemon'
 author = 'Smol Lemon'
@@ -96,14 +96,9 @@ enableRobotsTXT = true
   weight = 40
 
   [[menu.main]]
-  name = "Liên lạc"
-  url = "/lien-lac/"
-  weight = 50
-
-  [[menu.main]]
   name = "Giới thiệu"
   url = "/bai-dang/gioi-thieu/"
-  weight = 60
+  weight = 50
 
   [[menu.social]]
   name = "Youtube"
@@ -126,29 +121,11 @@ enableRobotsTXT = true
   [[menu.social]]
   name = "Smol Book"
   pre = "smolbook"
-  url = "https://book.smollemon.page"
+  url = "https://smollemon.github.io/"
   weight = 40
-
-  [[menu.social]]
-  name = "Mail"
-  pre = "mail"
-  url = "mailto:contact@smollemon.page"
-  weight = 50
-
-  [[menu.social]]
-  name = "Matrix"
-  pre = "matrix"
-  url = "https://matrix.to/#/@smollemon:matrix.org"
-  weight = 60
-
-  [[menu.social]]
-  name = "XMPP"
-  pre = "xmpp"
-  url = "xmpp:smollemon@xmpp.jp"
-  weight = 70
 
   [[menu.social]]
   name = "RSS"
   pre = "rss"
   url = "/index.xml"
-  weight = 80
+  weight = 50
